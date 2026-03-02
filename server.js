@@ -1,4 +1,3 @@
-// server.js
 const express = require('express');
 const http = require('http');
 const socketIo = require('socket.io');
@@ -7,14 +6,12 @@ const path = require('path');
 const app = express();
 const server = http.createServer(app);
 
-// THÊM ĐOẠN CORS VÀO KHỞI TẠO SOCKET.IO
 const io = socketIo(server, {
     cors: {
-        // Khai báo các tên miền được phép truy cập
         origin: [
             "https://d.thaco.link", 
             "http://localhost:3000", 
-            "http://127.0.0.1:5500" // Cho phép Live Server của VSCode
+            "http://127.0.0.1:5500"
         ],
         methods: ["GET", "POST"],
         credentials: true
@@ -23,7 +20,6 @@ const io = socketIo(server, {
 
 const PORT = process.env.PORT || 3000;
 
-// Phục vụ các file tĩnh từ thư mục public
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/tv', (req, res) => {
@@ -35,19 +31,33 @@ app.get('/remote', (req, res) => {
 });
 
 io.on('connection', (socket) => {
-    console.log('Client kết nối:', socket.id);
+    console.log('Client mới kết nối:', socket.id);
 
-    // Nhận dữ liệu carousel (prev, current, next) từ remote
+    // 1. Lắng nghe sự kiện xin vào phòng từ Client (Remote hoặc TV)
+    socket.on('join-room', (roomId) => {
+        if (roomId) {
+            socket.join(roomId); // Đưa client này vào phòng tương ứng với ID
+            socket.roomId = roomId; // Lưu lại ID phòng vào biến socket để dùng cho các bước sau
+            console.log(`Client [${socket.id}] đã tham gia nhóm: ${roomId}`);
+        }
+    });
+
+    // 2. Nhận dữ liệu carousel từ remote và chỉ phát vào trong phòng
     socket.on('play-tvc', (data) => {
         if (data && data.current) {
-            console.log(`Đang phát: ${data.current.name}`);
-            // Gửi lệnh đến tất cả các màn hình TV đang mở
-            socket.broadcast.emit('play-tvc', data);
+            console.log(`Đang phát: ${data.current.name} (Tại nhóm: ${socket.roomId})`);
+            
+            if (socket.roomId) {
+                // Sử dụng socket.to(roomId) để gửi lệnh cho tất cả các TV đang ở chung phòng với Remote này
+                socket.to(socket.roomId).emit('play-tvc', data);
+            } else {
+                console.log('Lỗi: Remote gửi lệnh nhưng chưa tham gia nhóm nào!');
+            }
         }
     });
 
     socket.on('disconnect', () => {
-        console.log('Client ngắt kết nối:', socket.id);
+        console.log(`Client ngắt kết nối: ${socket.id} (Nhóm: ${socket.roomId || 'Chưa vào'})`);
     });
 });
 
