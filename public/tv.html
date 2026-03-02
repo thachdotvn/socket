@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TVC Player - 3D Vertical Carousel</title>
+    <style>
+        :root {
+            --transition-speed: 0.8s;
+            --bg-dark: #0f172a;
+            --card-bg: #1e293b;
+        }
+        body, html {
+            margin: 0; padding: 0; overflow: hidden;
+            background-color: var(--bg-dark);
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            color: white; height: 100%;
+        }
+        .screen-container {
+            display: flex; flex-direction: column; height: 100vh;
+        }
+
+        /* Vùng KV phía trên */
+        .kv-area {
+            flex: 1.2; display: flex; justify-content: center; align-items: center;
+            padding: 20px; box-sizing: border-box;
+        }
+        #kv-image {
+            max-width: 90%; max-height: 90%;
+            object-fit: contain; border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            transition: opacity 0.5s ease;
+        }
+
+        /* Vùng Video chính 16:9 */
+        .player-area {
+            width: 100%; padding-top: 56.25%; /* 16:9 */
+            position: relative; background-color: #000;
+            box-shadow: 0 0 50px rgba(0,0,0,0.8);
+            z-index: 2;
+        }
+        #tvc-player {
+            position: absolute; top: 0; left: 0;
+            width: 100%; height: 100%; border: none;
+        }
+
+        /* Vùng Carousel 3D phía dưới */
+        .info-area {
+            flex: 1; display: flex; justify-content: center; align-items: center;
+            perspective: 1200px; /* Tạo độ sâu 3D */
+            overflow: hidden;
+        }
+        .carousel-container {
+            position: relative; width: 100%; height: 180px;
+            transform-style: preserve-3d;
+        }
+        .carousel-item {
+            position: absolute; left: 50%; top: 50%;
+            width: 280px; height: 160px;
+            margin-left: -140px; margin-top: -80px;
+            background-color: var(--card-bg);
+            border-radius: 12px; overflow: hidden;
+            display: flex; flex-direction: column;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+            transition: all var(--transition-speed) cubic-bezier(0.4, 0, 0.2, 1);
+            backface-visibility: hidden;
+        }
+        .carousel-item img {
+            width: 100%; height: 70%; object-fit: cover;
+        }
+        .carousel-item .title-box {
+            padding: 10px; flex: 1; display: flex; align-items: center; justify-content: center;
+        }
+        .carousel-item h2 {
+            margin: 0; font-size: 0.9rem; text-align: center;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        /* Trạng thái 3D cho các item */
+        .item-prev {
+            transform: translateX(-110%) translateZ(-250px) rotateY(35deg) scale(0.8);
+            opacity: 0.4; z-index: 1;
+        }
+        .item-current {
+            transform: translateX(0) translateZ(100px) rotateY(0deg) scale(1.1);
+            opacity: 1; z-index: 10;
+            border: 2px solid #2dd4bf;
+        }
+        .item-next {
+            transform: translateX(110%) translateZ(-250px) rotateY(-35deg) scale(0.8);
+            opacity: 0.4; z-index: 1;
+        }
+
+        #waiting-message {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            display: flex; justify-content: center; align-items: center;
+            background-color: var(--bg-dark); z-index: 100;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="waiting-message">
+        <div style="text-align: center;">
+            <h1 style="color: #2dd4bf;">TVC DISPLAY SYSTEM</h1>
+            <p>Đang kết nối thiết bị điều khiển...</p>
+        </div>
+    </div>
+
+    <div class="screen-container">
+        <div class="kv-area">
+            <img id="kv-image" src="" alt="Key Visual" style="opacity: 0;">
+        </div>
+
+        <div class="player-area">
+            <video id="tvc-player" autoplay muted loop playsinline></video>
+        </div>
+
+        <div class="info-area">
+            <div class="carousel-container">
+                <div id="card-prev" class="carousel-item item-prev">
+                    <img src="" alt="Prev">
+                    <div class="title-box"><h2>-</h2></div>
+                </div>
+                <div id="card-current" class="carousel-item item-current">
+                    <img src="" alt="Current">
+                    <div class="title-box"><h2>-</h2></div>
+                </div>
+                <div id="card-next" class="carousel-item item-next">
+                    <img src="" alt="Next">
+                    <div class="title-box"><h2>-</h2></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const socket = io();
+            const player = document.getElementById('tvc-player');
+            const kvImg = document.getElementById('kv-image');
+            const waiting = document.getElementById('waiting-message');
+
+            const items = {
+                prev: { 
+                    img: document.querySelector('#card-prev img'), 
+                    title: document.querySelector('#card-prev h2') 
+                },
+                current: { 
+                    img: document.querySelector('#card-current img'), 
+                    title: document.querySelector('#card-current h2') 
+                },
+                next: { 
+                    img: document.querySelector('#card-next img'), 
+                    title: document.querySelector('#card-next h2') 
+                }
+            };
+
+            socket.on('play-tvc', (data) => {
+                waiting.style.display = 'none';
+
+                // 1. Cập nhật Video & KV
+                if (player.src !== data.current.url) {
+                    player.src = data.current.url;
+                    player.play();
+                }
+                
+                kvImg.style.opacity = 0;
+                setTimeout(() => {
+                    kvImg.src = data.current.kvUrl;
+                    kvImg.style.opacity = 1;
+                }, 300);
+
+                // 2. Cập nhật Carousel (Tạo hiệu ứng trượt bằng cách thay đổi nội dung)
+                updateUI(items.prev, data.prev);
+                updateUI(items.current, data.current);
+                updateUI(items.next, data.next);
+            });
+
+            function updateUI(el, data) {
+                if (data) {
+                    el.img.src = data.thumbnailUrl;
+                    el.title.textContent = data.name;
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+```

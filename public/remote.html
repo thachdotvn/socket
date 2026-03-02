@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remote Control</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-900 text-white min-h-screen">
+
+    <div class="max-w-md mx-auto p-5">
+        <header class="mb-8 flex justify-between items-center">
+            <div>
+                <h1 class="text-2xl font-bold text-teal-400">Điều khiển TV</h1>
+                <p id="status" class="text-xs text-rose-500 font-medium">Chưa kết nối</p>
+            </div>
+            <div class="h-10 w-10 bg-teal-500/20 rounded-full flex items-center justify-center">
+                <div id="status-led" class="h-3 w-3 bg-rose-500 rounded-full"></div>
+            </div>
+        </header>
+
+        <section>
+            <h2 class="text-gray-400 uppercase text-xs font-bold tracking-widest mb-4">Danh sách TVC</h2>
+            <div id="playlist" class="grid gap-3">
+                <!-- Playlist items -->
+            </div>
+        </section>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        const tvcList = [
+            {
+                name: 'Kia K3 - Phong cách sống thông minh',
+                url: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
+                thumbnailUrl: 'https://kiavietnam.com.vn/storage/900x563-kia-k3-gt-line.png',
+                kvUrl: 'https://kiavietnam.com.vn/storage/k3-gt.jpg'
+            },
+            {
+                name: 'Kia K5 - Trải nghiệm đẳng cấp mới',
+                url: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
+                thumbnailUrl: 'https://storage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg',
+                kvUrl: 'https://placehold.co/800x400/334155/FFFFFF?text=KIA+K5+KV'
+            },
+            {
+                name: 'Kia New Sonet - Kết nối xu hướng',
+                url: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
+                thumbnailUrl: 'https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg',
+                kvUrl: 'https://placehold.co/800x400/1e293b/FFFFFF?text=SONET+KV'
+            },
+            {
+                name: 'Kia Sportage - Hành trình mới',
+                url: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4',
+                thumbnailUrl: 'https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg',
+                kvUrl: 'https://placehold.co/800x400/0f172a/FFFFFF?text=SPORTAGE+KV'
+            }
+        ];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const socket = io();
+            const playlist = document.getElementById('playlist');
+            const statusText = document.getElementById('status');
+            const statusLed = document.getElementById('status-led');
+
+            socket.on('connect', () => {
+                statusText.innerText = 'Đã kết nối trực tuyến';
+                statusText.className = 'text-xs text-teal-500 font-medium';
+                statusLed.className = 'h-3 w-3 bg-teal-500 rounded-full animate-pulse';
+            });
+
+            socket.on('disconnect', () => {
+                statusText.innerText = 'Mất kết nối';
+                statusText.className = 'text-xs text-rose-500 font-medium';
+                statusLed.className = 'h-3 w-3 bg-rose-500 rounded-full';
+            });
+
+            tvcList.forEach((tvc, idx) => {
+                const btn = document.createElement('button');
+                btn.className = "flex items-center p-3 bg-slate-800 rounded-xl hover:bg-slate-700 transition-all border border-slate-700 active:scale-95 text-left";
+                btn.innerHTML = `
+                    <img src="${tvc.thumbnailUrl}" class="w-20 h-12 object-cover rounded-lg mr-4 shadow-lg">
+                    <span class="text-sm font-medium line-clamp-2">${tvc.name}</span>
+                `;
+                
+                btn.onclick = () => {
+                    const total = tvcList.length;
+                    const prev = tvcList[(idx - 1 + total) % total];
+                    const next = tvcList[(idx + 1) % total];
+
+                    socket.emit('play-tvc', {
+                        current: tvc,
+                        prev: prev,
+                        next: next
+                    });
+                };
+                playlist.appendChild(btn);
+            });
+        });
+    </script>
+</body>
+</html>
+```
