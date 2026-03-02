@@ -98,6 +98,7 @@
             background-color: var(--bg-dark); z-index: 100;
         }
     </style>
+	<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
 </head>
 <body>
 
@@ -138,7 +139,7 @@
     <script src="/socket.io/socket.io.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const socket = io();
+            const socket = io("https://socket-hde0.onrender.com");
             const player = document.getElementById('tvc-player');
             const kvImg = document.getElementById('kv-image');
             const waiting = document.getElementById('waiting-message');

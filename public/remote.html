@@ -28,6 +28,7 @@
     </div>
 
     <script src="/socket.io/socket.io.js"></script>
+	<script src="https://cdn.socket.io/4.7.2/socket.io.min.js"></script>
     <script>
         const tvcList = [
             {
@@ -57,7 +58,7 @@
         ];
 
         document.addEventListener('DOMContentLoaded', () => {
-            const socket = io();
+            const socket = io("https://socket-hde0.onrender.com");
             const playlist = document.getElementById('playlist');
             const statusText = document.getElementById('status');
             const statusLed = document.getElementById('status-led');

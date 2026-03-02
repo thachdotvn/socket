@@ -6,7 +6,20 @@ const path = require('path');
 
 const app = express();
 const server = http.createServer(app);
-const io = socketIo(server);
+
+// THÊM ĐOẠN CORS VÀO KHỞI TẠO SOCKET.IO
+const io = socketIo(server, {
+    cors: {
+        // Khai báo các tên miền được phép truy cập
+        origin: [
+            "https://d.thaco.link", 
+            "http://localhost:3000", 
+            "http://127.0.0.1:5500" // Cho phép Live Server của VSCode
+        ],
+        methods: ["GET", "POST"],
+        credentials: true
+    }
+});
 
 const PORT = process.env.PORT || 3000;
 
