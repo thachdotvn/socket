@@ -37,7 +37,7 @@ io.on('connection', (socket) => {
     socket.on('join-room', (roomId) => {
         if (roomId) {
             socket.join(roomId); // Đưa client này vào phòng tương ứng với ID
-            socket.roomId = roomId; // Lưu lại ID phòng vào biến socket để dùng cho các bước sau
+            socket.roomId = roomId; // Lưu lại ID phòng vào biến socket 
             console.log(`Client [${socket.id}] đã tham gia nhóm: ${roomId}`);
         }
     });
