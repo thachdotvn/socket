@@ -6,7 +6,7 @@ const path = require('path');
 const app = express();
 const server = http.createServer(app);
 
-const io = socketIo(server, {
+/*const io = socketIo(server, {
     cors: {
         origin: [
             "https://d.thaco.link", 
@@ -16,8 +16,14 @@ const io = socketIo(server, {
         methods: ["GET", "POST"],
         credentials: true
     }
+});*/
+const io = socketIo(server, {
+    cors: {
+        origin: "*", // Cho phép mọi tên miền (public)
+        methods: ["GET", "POST"]
+        // Đã xóa credentials: true
+    }
 });
-
 const PORT = process.env.PORT || 3000;
 
 app.use(express.static(path.join(__dirname, 'public')));
