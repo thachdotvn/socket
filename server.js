@@ -1,32 +1,44 @@
-const express = require('express');
-const http = require('http');
-const socketIo = require('socket.io');
-const path = require('path');
+import express from 'express';
+import http from 'http';
+import { Server } from 'socket.io';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const app = express();
 const server = http.createServer(app);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-/*const io = socketIo(server, {
+const io = new Server(server, {
     cors: {
-        origin: [
-            "https://d.thaco.link", 
-            "http://localhost:3000", 
-            "http://127.0.0.1:5500"
-        ],
-        methods: ["GET", "POST"],
-        credentials: true
-    }
-});*/
-const io = socketIo(server, {
-    cors: {
-        origin: "*", // Cho phép mọi tên miền (public)
-        methods: ["GET", "POST"]
-        // Đã xóa credentials: true
+        origin: '*',
+        methods: ['GET', 'POST'],
     }
 });
 const PORT = process.env.PORT || 3000;
+const WEBHOOK_SECRET = process.env.WEBHOOK_SECRET || 'THACO_KITCHEN_WEBHOOK_2026';
 
+app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
+
+app.post('/webhook', (req, res) => {
+    const secret = req.headers['x-webhook-secret'] || req.headers['x-hook-secret'];
+    if (!secret || secret !== WEBHOOK_SECRET) {
+        return res.status(403).json({ success: false, message: 'Invalid webhook secret' });
+    }
+
+    const payload = req.body;
+    if (!payload || !payload.room || !payload.event) {
+        return res.status(400).json({ success: false, message: 'Missing room or event' });
+    }
+
+    const room = payload.room;
+    const event = payload.event;
+    const data = payload.data || {};
+    io.to(room).emit(event, { room, data });
+    console.log('[webhook] broadcast', event, 'room', room, 'data', data);
+    return res.json({ success: true });
+});
 
 app.get('/tv', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'tv.html'));
