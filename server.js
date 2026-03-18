@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.post('/webhook', (req, res) => {
    // const secret = req.headers['x-webhook-secret'] || req.headers['x-hook-secret'];
     //if (!secret || secret !== WEBHOOK_SECRET) {
-        return res.status(403).json({ success: false, message: 'Invalid webhook secret' });
+     //   return res.status(403).json({ success: false, message: 'Invalid webhook secret' });
     //}
 
     const payload = req.body;
