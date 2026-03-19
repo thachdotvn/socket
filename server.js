@@ -22,11 +22,11 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.post('/webhook', (req, res) => {
-   // const secret = req.headers['x-webhook-secret'] || req.headers['x-hook-secret'];
-    //if (!secret || secret !== WEBHOOK_SECRET) {
-     //   return res.status(403).json({ success: false, message: 'Invalid webhook secret' });
-    //}
-
+    //const secret = req.headers['x-webhook-secret'] || req.headers['x-hook-secret'];
+   // if (!secret || secret !== WEBHOOK_SECRET) {
+   //     return res.status(403).json({ success: false, message: 'Invalid webhook secret' });
+   // }
+    console.log('webhook')
     const payload = req.body;
     if (!payload || !payload.room || !payload.event) {
         return res.status(400).json({ success: false, message: 'Missing room or event' });
