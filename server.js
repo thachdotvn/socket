@@ -36,7 +36,7 @@ app.post('/webhook', (req, res) => {
     const event = payload.event;
     const data = payload.data || {};
     io.to(room).emit(event, { room, data });
-	//io.to('monitor').emit(event, { 'monitor', data });
+	io.to('monitor').emit(event, { room: 'monitor', data: data });
     console.log('[webhook] broadcast', event, 'room', room, 'data', data);
     return res.json({ success: true });
 });
