@@ -60,7 +60,9 @@ io.on('connection', (socket) => {
             console.log(`Client [${socket.id}] đã tham gia nhóm: ${roomId}`);
         }
     });
-
+socket.on('incoming', (data) => {
+		io.to('monitor').emit('incoming', { data });
+});
     // 2. Nhận dữ liệu carousel từ remote và chỉ phát vào trong phòng
     socket.on('play-tvc', (data) => {
         if (data && data.current) {
