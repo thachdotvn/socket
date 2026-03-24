@@ -61,9 +61,11 @@ io.on('connection', (socket) => {
         }
     });
 socket.on('incoming', (data) => {
+	console.log('incoming');
 		io.to('monitor').emit('incoming', { data });
 });
 socket.on('event_giao_xe', (data) => {
+	console.log('event_giao_xe');
 		io.to('monitor').emit('event_giao_xe', { data });
 });
     // 2. Nhận dữ liệu carousel từ remote và chỉ phát vào trong phòng
