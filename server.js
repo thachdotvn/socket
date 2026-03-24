@@ -21,7 +21,7 @@ const WEBHOOK_SECRET = process.env.WEBHOOK_SECRET || 'THACO_KITCHEN_WEBHOOK_2026
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.post('/webhook', (req, res) => {
+app.post('/webhook', async (req, res) => {
     //const secret = req.headers['x-webhook-secret'] || req.headers['x-hook-secret'];
    // if (!secret || secret !== WEBHOOK_SECRET) {
    //     return res.status(403).json({ success: false, message: 'Invalid webhook secret' });
@@ -37,6 +37,20 @@ app.post('/webhook', (req, res) => {
     const data = payload.data || {};
     io.to(room).emit(event, { room, data });
 	io.to('monitor').emit(event, { room: 'monitor', data: data });
+	
+	try {
+            await fetch('https://monitor.hoangthach-mhn.workers.dev/api/internal-log', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'x-secret-key': 'THACO_AUTO_SECRET_2026' // Khớp với mật khẩu bên CF
+                },
+                body: JSON.stringify(data)
+            });
+            console.log("Đã ghi log D1 thành công cho " + event);
+        } catch (error) {
+            console.error("Lỗi ghi log D1:", error);
+        }
     console.log('[webhook] broadcast', event, 'room', room, 'data', data);
     return res.json({ success: true });
 });
@@ -60,14 +74,40 @@ io.on('connection', (socket) => {
             console.log(`Client [${socket.id}] đã tham gia nhóm: ${roomId}`);
         }
     });
-socket.on('incoming', (data) => {
+socket.on('incoming', async (data) => {
 	console.log('incoming');
 		io.to('monitor').emit('incoming', { data });
+			try {
+            await fetch('https://monitor.hoangthach-mhn.workers.dev/api/internal-log', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'x-secret-key': 'THACO_AUTO_SECRET_2026' // Khớp với mật khẩu bên CF
+                },
+                body: JSON.stringify(data)
+            });
+            console.log("Đã ghi log D1 thành công cho incoming");
+        } catch (error) {
+            console.error("Lỗi ghi log D1:", error);
+        }
 });
-socket.on('event_giao_xe', (data) => {
+socket.on('event_giao_xe',async (data) => {
 	console.log('event_giao_xe');
 		io.to('monitor').emit('event_giao_xe', { data });
 		 console.log('event_giao_xe', data);
+		 	try {
+            await fetch('https://monitor.hoangthach-mhn.workers.dev/api/internal-log', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'x-secret-key': 'THACO_AUTO_SECRET_2026' // Khớp với mật khẩu bên CF
+                },
+                body: JSON.stringify(data.data)
+            });
+            console.log("Đã ghi log D1 thành công cho event_giao_xe");
+        } catch (error) {
+            console.error("Lỗi ghi log D1:", error);
+        }
 });
     // 2. Nhận dữ liệu carousel từ remote và chỉ phát vào trong phòng
     socket.on('play-tvc', (data) => {
