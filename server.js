@@ -63,6 +63,9 @@ io.on('connection', (socket) => {
 socket.on('incoming', (data) => {
 		io.to('monitor').emit('incoming', { data });
 });
+socket.on('event_giao_xe', (data) => {
+		io.to('monitor').emit('event_giao_xe', { data });
+});
     // 2. Nhận dữ liệu carousel từ remote và chỉ phát vào trong phòng
     socket.on('play-tvc', (data) => {
         if (data && data.current) {

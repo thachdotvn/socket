@@ -1,0 +1,1184 @@
+<div id="order-log" class="log-container"><div id="log-PVD-215586" class="log-entry log-success">
+                <div class="log-time">4:47:01 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-215586)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-195635" class="log-entry log-success">
+                <div class="log-time">4:46:44 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-195635)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_103)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê sữa đá, 2 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PVD-298791" class="log-entry log-success">
+                <div class="log-time">4:28:18 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-298791)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn Thành Trung</b> (Bàn PC.KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-592276" class="log-entry log-success">
+                <div class="log-time">4:05:41 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-592276)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vũ duy hưng</b> (Bàn PC.PB_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PVD-526921" class="log-entry log-success">
+                <div class="log-time">4:02:54 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-526921)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_103)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-749608" class="log-entry log-success">
+                <div class="log-time">3:51:10 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-749608)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-330610" class="log-entry log-success">
+                <div class="log-time">3:43:03 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-330610)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-086733" class="log-entry log-success">
+                <div class="log-time">3:39:30 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-086733)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Huynh</b> (Bàn PC.KM_114)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Mirinda cam</div>
+                </div>
+            </div><div id="log-PVD-012017" class="log-entry log-success">
+                <div class="log-time">3:37:40 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-012017)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>PHẠM ngọc côn</b> (Bàn PC.KM_104)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-735299" class="log-entry log-success">
+                <div class="log-time">3:32:23 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-735299)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_101)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-376806" class="log-entry log-success">
+                <div class="log-time">3:27:24 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-376806)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Phùng Viết Hiếu</b> (Bàn PC.KM_124)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PMH-300906" class="log-entry log-success">
+                <div class="log-time">3:25:46 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-300906)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi không đường</div>
+                </div>
+            </div><div id="log-PMH-234786" class="log-entry log-success">
+                <div class="log-time">3:25:00 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-234786)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-092959" class="log-entry log-success">
+                <div class="log-time">3:22:49 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-092959)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Tùng</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Mirinda cam</div>
+                </div>
+            </div><div id="log-PVD-022367" class="log-entry log-success">
+                <div class="log-time">3:22:25 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-022367)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn thị thanh hoa</b> (Bàn PC.KM_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino đá, 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-875824" class="log-entry log-success">
+                <div class="log-time">3:18:00 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-875824)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Dương Văn Chiến</b> (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Mirinda cam</div>
+                </div>
+            </div><div id="log-PVD-763596" class="log-entry log-success">
+                <div class="log-time">3:17:38 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-763596)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Trương Minh Quỳnh</b> (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-680164" class="log-entry log-success">
+                <div class="log-time">3:14:44 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-680164)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_123)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 5 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PVD-669654" class="log-entry log-success">
+                <div class="log-time">3:14:42 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-669654)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 5 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PVD-576678" class="log-entry log-success">
+                <div class="log-time">3:13:51 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-576678)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Cà phê đen nóng, 3 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-621320" class="log-entry log-success">
+                <div class="log-time">3:13:48 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-621320)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_121)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-798584" class="log-entry log-success">
+                <div class="log-time">3:01:25 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-798584)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn văn Minh</b> (Bàn PC.KM_105)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-020649" class="log-entry log-success">
+                <div class="log-time">2:50:39 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-020649)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PMH-116388" class="log-entry log-success">
+                <div class="log-time">2:49:26 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-116388)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Kim Mone</b> (Bàn KM_114)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-373903" class="log-entry log-success">
+                <div class="log-time">2:40:25 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-373903)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PVD-875393" class="log-entry log-success">
+                <div class="log-time">2:29:19 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-875393)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Minh</b> (Bàn PC.KM_105)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-720986" class="log-entry log-success">
+                <div class="log-time">2:27:59 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-720986)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Lê Thuỳ Hạ My</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino nóng, 2 Bánh quy</div>
+                </div>
+            </div><div id="log-PVD-592959" class="log-entry log-success">
+                <div class="log-time">2:27:45 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-592959)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Hoàng</b> (Bàn PC.KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-402680" class="log-entry log-success">
+                <div class="log-time">2:22:37 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-402680)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Phan Văn Hiểu</b> (Bàn PC.PB_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-362839" class="log-entry log-success">
+                <div class="log-time">2:20:42 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-362839)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PMH-117944" class="log-entry log-success">
+                <div class="log-time">2:20:41 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-117944)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Lê Thuỳ Hạ My</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Ca cao sữa đá, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-094537" class="log-entry log-success">
+                <div class="log-time">2:20:41 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-094537)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_119)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá, 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-072643" class="log-entry log-success">
+                <div class="log-time">2:16:36 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-072643)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_121)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Mirinda cam, 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-109632" class="log-entry log-success">
+                <div class="log-time">2:16:14 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-109632)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_103)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-057431" class="log-entry log-success">
+                <div class="log-time">2:14:29 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-057431)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Hương</b> (Bàn PC.KM_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-762760" class="log-entry log-success">
+                <div class="log-time">2:14:26 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-762760)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_113)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-829271" class="log-entry log-success">
+                <div class="log-time">2:10:39 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-829271)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vòng chí quốc</b> (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PMH-747090" class="log-entry log-success">
+                <div class="log-time">2:09:52 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-747090)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Chu Hung</b> (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-379683" class="log-entry log-success">
+                <div class="log-time">2:07:18 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-379683)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá, 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-336956" class="log-entry log-success">
+                <div class="log-time">2:03:22 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-336956)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Thanh loi</b> (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-281959" class="log-entry log-success">
+                <div class="log-time">2:03:11 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-281959)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Cung van thinh</b> (Bàn PC.KM_123)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-109725" class="log-entry log-success">
+                <div class="log-time">2:01:52 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-109725)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>A Hùng</b> (Bàn PC.PB_106)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-045852" class="log-entry log-success">
+                <div class="log-time">1:59:23 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-045852)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-088098" class="log-entry log-success">
+                <div class="log-time">1:59:01 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-088098)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: CANCELLED]</span> Khách: <b>A Hùng</b> (Bàn PC.PB_106)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-643356" class="log-entry log-success">
+                <div class="log-time">1:52:29 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-643356)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Trần Đình Huân</b> (Bàn PC.KM_115)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi</div>
+                </div>
+            </div><div id="log-PMH-260533" class="log-entry log-success">
+                <div class="log-time">1:45:18 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-260533)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>TRAN HOANG VIET</b> (Bàn KM_113)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-026289" class="log-entry log-success">
+                <div class="log-time">1:41:35 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-026289)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-722593" class="log-entry log-success">
+                <div class="log-time">1:37:28 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-722593)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Chu Văn Trọng</b> (Bàn PC.PB_101)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-356148" class="log-entry log-success">
+                <div class="log-time">1:31:12 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-356148)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PMH-281328" class="log-entry log-success">
+                <div class="log-time">1:31:12 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-281328)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-038505" class="log-entry log-success">
+                <div class="log-time">1:26:05 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-038505)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_113)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-797070" class="log-entry log-success">
+                <div class="log-time">1:20:44 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-797070)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vân</b> (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá, 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-602653" class="log-entry log-success">
+                <div class="log-time">1:19:03 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-602653)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_116)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-363148" class="log-entry log-success">
+                <div class="log-time">1:13:39 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-363148)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê đen nóng</div>
+                </div>
+            </div><div id="log-PVD-375335" class="log-entry log-success">
+                <div class="log-time">1:13:37 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-375335)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_121)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê đen nóng, 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-392877" class="log-entry log-success">
+                <div class="log-time">1:13:35 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-392877)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê Cappuccino nóng</div>
+                </div>
+            </div><div id="log-PVD-406811" class="log-entry log-success">
+                <div class="log-time">1:13:33 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-406811)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 5 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PVD-089066" class="log-entry log-success">
+                <div class="log-time">1:11:06 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-089066)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_124)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-119824" class="log-entry log-success">
+                <div class="log-time">1:10:02 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-119824)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Trình</b> (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-944992" class="log-entry log-success">
+                <div class="log-time">1:07:33 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-944992)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn thị thu hường</b> (Bàn PC.KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng, 2 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-860651" class="log-entry log-success">
+                <div class="log-time">1:07:31 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-860651)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn thị thu hường</b> (Bàn PC.KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-347972" class="log-entry log-success">
+                <div class="log-time">12:59:47 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-347972)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi</div>
+                </div>
+            </div><div id="log-PMH-729742" class="log-entry log-success">
+                <div class="log-time">12:30:03 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-729742)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-957610" class="log-entry log-success">
+                <div class="log-time">12:17:42 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-957610)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Tiến</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton đá, 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-670055" class="log-entry log-success">
+                <div class="log-time">12:11:59 PM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-670055)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>tran ngoc tuấn</b> (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-233619" class="log-entry log-success">
+                <div class="log-time">11:48:00 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-233619)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vu</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi</div>
+                </div>
+            </div><div id="log-PMH-796159" class="log-entry log-success">
+                <div class="log-time">11:46:11 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-796159)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Thọ</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-725565" class="log-entry log-success">
+                <div class="log-time">11:22:40 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-725565)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Khuong</b> (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-286218" class="log-entry log-success">
+                <div class="log-time">11:09:17 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-286218)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng, 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-602867" class="log-entry log-success">
+                <div class="log-time">11:07:11 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-602867)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Ngô Gia Hoàng</b> (Bàn K_101)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PMH-403543" class="log-entry log-success">
+                <div class="log-time">11:03:17 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-403543)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Liêm</b> (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino đá</div>
+                </div>
+            </div><div id="log-PMH-159583" class="log-entry log-success">
+                <div class="log-time">10:59:23 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-159583)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyen Tran Anh huy</b> (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá, 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-439571" class="log-entry log-success">
+                <div class="log-time">10:50:38 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-439571)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Hoàng Anh</b> (Bàn K_105)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá, 1 Trà Lipton đá, 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PMH-402335" class="log-entry log-success">
+                <div class="log-time">10:50:36 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-402335)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Duy</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá, 2 Nước khoáng thiên nhiên La Vie, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PVD-396066" class="log-entry log-success">
+                <div class="log-time">10:46:56 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-396066)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_106)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-076620" class="log-entry log-success">
+                <div class="log-time">10:40:22 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-076620)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vòng chí quốc</b> (Bàn K_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino đá, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-255393" class="log-entry log-emenu">
+                <div class="log-time">10:24:15 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-255393)</div>
+                    <div style="margin-top:2px"><span style="color:#00ffcc">[ĐƠN MỚI]</span> Khách: <b>Nguyễn ngọc tuấn</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-831096" class="log-entry log-success">
+                <div class="log-time">10:21:03 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-831096)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>TĂNG HÙNG CƯỜNG</b> (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi không đường</div>
+                </div>
+            </div><div id="log-PMH-993204" class="log-entry log-success">
+                <div class="log-time">10:21:02 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-993204)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Du</b> (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-954939" class="log-entry log-success">
+                <div class="log-time">10:19:19 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-954939)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Cà phê sữa đá, 2 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PVD-815760" class="log-entry log-success">
+                <div class="log-time">10:18:51 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-815760)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_101)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton nóng, 1 Cà phê đen nóng</div>
+                </div>
+            </div><div id="log-PVD-897698" class="log-entry log-success">
+                <div class="log-time">10:18:44 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-897698)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_121)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-917435" class="log-entry log-success">
+                <div class="log-time">10:18:42 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-917435)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Trà Lipton nóng, 1 Trà Lipton đá, 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-888163" class="log-entry log-success">
+                <div class="log-time">10:18:34 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-888163)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PMH-690510" class="log-entry log-success">
+                <div class="log-time">10:18:14 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-690510)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>TĂNG HÙNG CƯỜNG</b> (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi không đường</div>
+                </div>
+            </div><div id="log-PMH-663458" class="log-entry log-success">
+                <div class="log-time">10:18:14 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-663458)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>pham</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-005874" class="log-entry log-success">
+                <div class="log-time">10:07:31 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-005874)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>PHẠM ngọc côn</b> (Bàn PC.KM_106)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-999239" class="log-entry log-success">
+                <div class="log-time">10:05:58 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-999239)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vinh</b> (Bàn KM_116)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino đá</div>
+                </div>
+            </div><div id="log-PVD-728402" class="log-entry log-success">
+                <div class="log-time">10:02:12 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-728402)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Lê Vũ</b> (Bàn PC.KM_115)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-590508" class="log-entry log-success">
+                <div class="log-time">9:58:32 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-590508)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng, 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-245234" class="log-entry log-success">
+                <div class="log-time">9:54:33 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-245234)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Thắng</b> (Bàn PC.PB_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino đá</div>
+                </div>
+            </div><div id="log-PVD-443476" class="log-entry log-success">
+                <div class="log-time">9:54:32 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-443476)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_123)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PVD-451404" class="log-entry log-success">
+                <div class="log-time">9:54:30 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-451404)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-465742" class="log-entry log-success">
+                <div class="log-time">9:54:28 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-465742)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_121)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-074724" class="log-entry log-success">
+                <div class="log-time">9:50:28 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-074724)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Huỳnh thị truc mai</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PVD-123766" class="log-entry log-success">
+                <div class="log-time">9:49:23 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-123766)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Thắng</b> (Bàn PC.PB_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino nóng</div>
+                </div>
+            </div><div id="log-PMH-971540" class="log-entry log-success">
+                <div class="log-time">9:49:11 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-971540)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-910815" class="log-entry log-success">
+                <div class="log-time">9:49:00 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-910815)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_107)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Pepsi</div>
+                </div>
+            </div><div id="log-PVD-891152" class="log-entry log-success">
+                <div class="log-time">9:47:07 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-891152)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PVD-759202" class="log-entry log-success">
+                <div class="log-time">9:42:46 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-759202)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-626141" class="log-entry log-success">
+                <div class="log-time">9:41:18 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-626141)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_103)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-403568" class="log-entry log-success">
+                <div class="log-time">9:41:08 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-403568)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Chiến</b> (Bàn PC.KM_113)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PMH-198321" class="log-entry log-success">
+                <div class="log-time">9:40:00 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-198321)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-252583" class="log-entry log-success">
+                <div class="log-time">9:36:25 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-252583)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-947600" class="log-entry log-success">
+                <div class="log-time">9:31:40 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-947600)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Đinh thanh tùng</b> (Bàn PC.KM_124)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-691208" class="log-entry log-success">
+                <div class="log-time">9:27:59 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-691208)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 5 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PVD-680599" class="log-entry log-success">
+                <div class="log-time">9:26:25 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-680599)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-664600" class="log-entry log-success">
+                <div class="log-time">9:26:18 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-664600)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PMH-540779" class="log-entry log-success">
+                <div class="log-time">9:24:28 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-540779)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Đỗ Đức Huy</b> (Bàn KM_114)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-532583" class="log-entry log-success">
+                <div class="log-time">9:23:43 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-532583)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Bien</b> (Bàn PC.KM_115)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-473127" class="log-entry log-success">
+                <div class="log-time">9:23:40 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-473127)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Lương Tuấn Anh</b> (Bàn PC.KM_115)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PVD-385117" class="log-entry log-success">
+                <div class="log-time">9:23:38 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-385117)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Đàm văn trọng</b> (Bàn PC.KM_105)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PMH-364062" class="log-entry log-success">
+                <div class="log-time">9:21:04 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-364062)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_113)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PMH-170428" class="log-entry log-success">
+                <div class="log-time">9:18:41 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-170428)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Đặng Văn Có</b> (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-001316" class="log-entry log-success">
+                <div class="log-time">9:17:17 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-001316)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Huy</b> (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PMH-915977" class="log-entry log-success">
+                <div class="log-time">9:17:17 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-915977)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-877432" class="log-entry log-success">
+                <div class="log-time">9:17:16 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-877432)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>huynh</b> (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-894670" class="log-entry log-success">
+                <div class="log-time">9:13:09 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-894670)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Lê ngọc sỹ</b> (Bàn PC.PB_107)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-862695" class="log-entry log-success">
+                <div class="log-time">9:13:07 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-862695)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>A Tuan</b> (Bàn PC.KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PMH-690757" class="log-entry log-success">
+                <div class="log-time">9:12:16 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-690757)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Cuong</b> (Bàn KM_114)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh đá</div>
+                </div>
+            </div><div id="log-PMH-516755" class="log-entry log-success">
+                <div class="log-time">9:09:27 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-516755)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PVD-289229" class="log-entry log-success">
+                <div class="log-time">9:04:44 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-289229)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê đen đá, 2 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PVD-312172" class="log-entry log-success">
+                <div class="log-time">9:04:42 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-312172)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 4 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-342363" class="log-entry log-success">
+                <div class="log-time">9:04:40 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-342363)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_123)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Cà phê Cappuccino đá</div>
+                </div>
+            </div><div id="log-PMH-133984" class="log-entry log-success">
+                <div class="log-time">9:00:44 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-133984)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton đá, 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PVD-175542" class="log-entry log-success">
+                <div class="log-time">9:00:21 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-175542)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_121)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PVD-634110" class="log-entry log-success">
+                <div class="log-time">9:00:15 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-634110)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vũ Xuân Lộc</b> (Bàn PC.KM_113)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-638580" class="log-entry log-success">
+                <div class="log-time">9:00:11 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-638580)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Bách</b> (Bàn PC.KM_103)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-694135" class="log-entry log-success">
+                <div class="log-time">9:00:09 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-694135)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_105)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PVD-805210" class="log-entry log-success">
+                <div class="log-time">9:00:07 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-805210)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_116)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-105694" class="log-entry log-success">
+                <div class="log-time">8:59:58 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-105694)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 3 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PVD-945694" class="log-entry log-success">
+                <div class="log-time">8:59:31 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-945694)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino đá</div>
+                </div>
+            </div><div id="log-PVD-125480" class="log-entry log-success">
+                <div class="log-time">8:59:24 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-125480)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê Cappuccino đá</div>
+                </div>
+            </div><div id="log-PMH-878414" class="log-entry log-success">
+                <div class="log-time">8:57:51 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-878414)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_115)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá, 1 Trà Lipton đá</div>
+                </div>
+            </div><div id="log-PMH-853548" class="log-entry log-success">
+                <div class="log-time">8:56:20 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-853548)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-961238" class="log-entry log-success">
+                <div class="log-time">8:56:17 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-961238)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen nóng</div>
+                </div>
+            </div><div id="log-PMH-612955" class="log-entry log-success">
+                <div class="log-time">8:53:43 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-612955)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Toan</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-507105" class="log-entry log-success">
+                <div class="log-time">8:49:27 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-507105)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>A Tuan</b> (Bàn PC.KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PVD-489911" class="log-entry log-success">
+                <div class="log-time">8:49:25 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-489911)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá, 3 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PVD-364562" class="log-entry log-success">
+                <div class="log-time">8:49:19 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-364562)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-302289" class="log-entry log-success">
+                <div class="log-time">8:49:15 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-302289)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_123)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PVD-087615" class="log-entry log-success">
+                <div class="log-time">8:44:35 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-087615)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Trí</b> (Bàn PC.KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie, 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-050467" class="log-entry log-success">
+                <div class="log-time">8:42:20 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-050467)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen Espresso nóng</div>
+                </div>
+            </div><div id="log-PMH-928786" class="log-entry log-success">
+                <div class="log-time">8:42:05 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-928786)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Vy</b> (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-TG-012185" class="log-entry log-emenu">
+                <div class="log-time">8:40:12 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Mỹ Tho (#TG-012185)</div>
+                    <div style="margin-top:2px"><span style="color:#00ffcc">[ĐƠN MỚI]</span> Khách: <b>Hồ Đăng Phước</b> (Bàn KM_101)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen Espresso đá</div>
+                </div>
+            </div><div id="log-PVD-546078" class="log-entry log-success">
+                <div class="log-time">8:39:44 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-546078)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Bùi Quang Hùng</b> (Bàn PC.PB_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa nóng, 2 Cà phê đen nóng</div>
+                </div>
+            </div><div id="log-PMH-869091" class="log-entry log-success">
+                <div class="log-time">8:39:41 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-869091)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn đức bắc</b> (Bàn KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen Espresso đá</div>
+                </div>
+            </div><div id="log-PMH-758012" class="log-entry log-success">
+                <div class="log-time">8:39:41 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-758012)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_116)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PMH-689665" class="log-entry log-success">
+                <div class="log-time">8:36:19 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-689665)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Trần Công Tâm</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PVD-400110" class="log-entry log-success">
+                <div class="log-time">8:31:43 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-400110)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_120)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PVD-301501" class="log-entry log-success">
+                <div class="log-time">8:31:39 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-301501)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Kim tuấn h un ngf</b> (Bàn PC.KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PVD-332021" class="log-entry log-success">
+                <div class="log-time">8:31:36 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-332021)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Tran tien thanh</b> (Bàn PC.KM_114)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PMH-114904" class="log-entry log-success">
+                <div class="log-time">8:28:32 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-114904)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-087986" class="log-entry log-success">
+                <div class="log-time">8:28:31 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-087986)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Le Tri</b> (Bàn KM_118)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-886597" class="log-entry log-success">
+                <div class="log-time">8:28:31 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-886597)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Đức</b> (Bàn KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PVD-043585" class="log-entry log-success">
+                <div class="log-time">8:26:37 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-043585)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.PB_104)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà Lipton nóng</div>
+                </div>
+            </div><div id="log-PMH-870000" class="log-entry log-success">
+                <div class="log-time">8:25:01 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-870000)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Hoàng thế hiển</b> (Bàn KM_109)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa nóng</div>
+                </div>
+            </div><div id="log-PMH-816517" class="log-entry log-success">
+                <div class="log-time">8:23:25 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-816517)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Bánh quy</div>
+                </div>
+            </div><div id="log-PMH-803846" class="log-entry log-success">
+                <div class="log-time">8:22:52 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-803846)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-797808" class="log-entry log-success">
+                <div class="log-time">8:21:52 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-797808)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: CANCELLED]</span> Khách: <b>Nguyễn minh Tân</b> (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 2 Cà phê Cappuccino nóng</div>
+                </div>
+            </div><div id="log-PMH-730558" class="log-entry log-success">
+                <div class="log-time">8:21:40 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-730558)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Nguyễn minh Tân</b> (Bàn KM_108)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê Cappuccino nóng</div>
+                </div>
+            </div><div id="log-PVD-507493" class="log-entry log-success">
+                <div class="log-time">8:16:25 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-507493)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Kim tuấn h un ngf</b> (Bàn PC.KM_111)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Ca cao sữa đá</div>
+                </div>
+            </div><div id="log-PMH-279229" class="log-entry log-success">
+                <div class="log-time">8:15:40 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-279229)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá</div>
+                </div>
+            </div><div id="log-PMH-242806" class="log-entry log-success">
+                <div class="log-time">8:11:17 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-242806)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_117)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen nóng</div>
+                </div>
+            </div><div id="log-PVD-897525" class="log-entry log-success">
+                <div class="log-time">8:10:15 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phạm Văn Đồng (#PVD-897525)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn PC.KM_102)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Trà chanh nóng</div>
+                </div>
+            </div><div id="log-PMH-831483" class="log-entry log-success">
+                <div class="log-time">8:06:32 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-831483)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>NGUYỄN HỒNG PHÚC</b> (Bàn KM_114)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PMH-604427" class="log-entry log-success">
+                <div class="log-time">8:06:30 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-604427)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span> Khách: <b>Thành</b> (Bàn KM_110)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê sữa đá, 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div><div id="log-PMH-331561" class="log-entry log-success">
+                <div class="log-time">7:58:22 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-331561)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Cà phê đen đá</div>
+                </div>
+            </div><div id="log-PMH-340112" class="log-entry log-success">
+                <div class="log-time">7:58:21 AM</div>
+                <div class="log-content">
+                    <div style="font-weight:bold; font-size:13px; color:#fff">Showroom Phú Mỹ Hưng (#PMH-340112)</div>
+                    <div style="margin-top:2px"><span style="color:#33ff55">[CẬP NHẬT: COMPLETED]</span>  (Bàn KM_112)</div>
+                    <div style="margin-top:4px; color:#ccc; font-style:italic">- 1 Nước khoáng thiên nhiên La Vie</div>
+                </div>
+            </div></div>
