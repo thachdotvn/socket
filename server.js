@@ -36,6 +36,20 @@ app.post('/webhook', (req, res) => {
     const event = payload.event;
     const data = payload.data || {};
     io.to(room).emit(event, { room, data });
+	try {
+            await fetch('https://monitor.hoangthach-mhn.workers.dev/api/internal-log', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'x-secret-key': 'THACO_AUTO_SECRET_2026' // Khớp với mật khẩu bên CF
+                },
+                body: JSON.stringify(data)
+            });
+            console.log("Đã ghi log D1 thành công cho event_giao_xe");
+        } catch (error) {
+            console.error("Lỗi ghi log D1:", error);
+            // Ở đây có thể làm thêm logic lưu tạm vào RAM nếu CF lỗi
+        }
 	io.to('monitor').emit(event, { room: 'monitor', data: data });
     console.log('[webhook] broadcast', event, 'room', room, 'data', data);
     return res.json({ success: true });
@@ -63,11 +77,38 @@ io.on('connection', (socket) => {
 socket.on('incoming', (data) => {
 	console.log('incoming');
 		io.to('monitor').emit('incoming', { data });
+		try {
+            await fetch('https://monitor.hoangthach-mhn.workers.dev/api/internal-log', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'x-secret-key': 'THACO_AUTO_SECRET_2026' // Khớp với mật khẩu bên CF
+                },
+                body: JSON.stringify(data)
+            });
+            console.log("Đã ghi log D1 thành công cho event_giao_xe");
+        } catch (error) {
+            console.error("Lỗi ghi log D1:", error);
+            // Ở đây có thể làm thêm logic lưu tạm vào RAM nếu CF lỗi
+        }
 });
 socket.on('event_giao_xe', (data) => {
-	console.log('event_giao_xe');
 		io.to('monitor').emit('event_giao_xe', { data });
 		 console.log('event_giao_xe', data);
+		 try {
+            await fetch('https://monitor.hoangthach-mhn.workers.dev/api/internal-log', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'x-secret-key': 'THACO_AUTO_SECRET_2026' // Khớp với mật khẩu bên CF
+                },
+                body: JSON.stringify(data)
+            });
+            console.log("Đã ghi log D1 thành công cho event_giao_xe");
+        } catch (error) {
+            console.error("Lỗi ghi log D1:", error);
+            // Ở đây có thể làm thêm logic lưu tạm vào RAM nếu CF lỗi
+        }
 });
     // 2. Nhận dữ liệu carousel từ remote và chỉ phát vào trong phòng
     socket.on('play-tvc', (data) => {
